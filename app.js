@@ -16,7 +16,6 @@ $('#clickMe').click(function (){
                 <td>' + content["Nombre d'interesses"] + '</td>\
                 <td>' + content["Statut de la collecte"] + '</td>\
                 </tr>');
-                console.log(content["Nom de projet"]);
                 i++;
             });
         },
