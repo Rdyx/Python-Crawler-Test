@@ -2,6 +2,7 @@
 ## How To
 
 *Assuming you already have Python, Scraby and Apache installed on your machine*
+#### **Don't forget to enable** _Cross-Origin Resource Sharing_ **add-on for your browser !**
 
 1. Open your console, go into your project folder
 2. Type **virtualenv venv**
